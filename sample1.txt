@@ -1,1 +1,5 @@
-This is the sample txt file. 
+This is the sample txt file.
+
+This is to check git diff command
+
+This is to check git commit. 
